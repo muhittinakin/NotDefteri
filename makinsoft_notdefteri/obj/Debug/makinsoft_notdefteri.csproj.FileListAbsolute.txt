@@ -1,0 +1,11 @@
+D:\PROJELER\makinsoft_notdefteri\makinsoft_notdefteri\bin\Debug\makinsoft_notdefteri.exe.config
+D:\PROJELER\makinsoft_notdefteri\makinsoft_notdefteri\bin\Debug\makinsoft_notdefteri.exe
+D:\PROJELER\makinsoft_notdefteri\makinsoft_notdefteri\bin\Debug\makinsoft_notdefteri.pdb
+D:\PROJELER\makinsoft_notdefteri\makinsoft_notdefteri\obj\Debug\makinsoft_notdefteri.csproj.AssemblyReference.cache
+D:\PROJELER\makinsoft_notdefteri\makinsoft_notdefteri\obj\Debug\makinsoft_notdefteri.csproj.SuggestedBindingRedirects.cache
+D:\PROJELER\makinsoft_notdefteri\makinsoft_notdefteri\obj\Debug\makinsoft_notdefteri.Form1.resources
+D:\PROJELER\makinsoft_notdefteri\makinsoft_notdefteri\obj\Debug\makinsoft_notdefteri.Properties.Resources.resources
+D:\PROJELER\makinsoft_notdefteri\makinsoft_notdefteri\obj\Debug\makinsoft_notdefteri.csproj.GenerateResource.cache
+D:\PROJELER\makinsoft_notdefteri\makinsoft_notdefteri\obj\Debug\makinsoft_notdefteri.csproj.CoreCompileInputs.cache
+D:\PROJELER\makinsoft_notdefteri\makinsoft_notdefteri\obj\Debug\makinsoft_notdefteri.exe
+D:\PROJELER\makinsoft_notdefteri\makinsoft_notdefteri\obj\Debug\makinsoft_notdefteri.pdb
